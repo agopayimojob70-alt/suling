@@ -1,0 +1,21 @@
+# RPG Maker MV - Save files (personal data)
+save/
+
+# Source files not needed for runtime
+*.psd
+*.psb
+
+# Mobile audio duplicates (.ogg is used for web/PC)
+*.m4a
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+*.lnk
+
+# Temporary files
+*.tmp
+*.swp
+*~
+*.bak
